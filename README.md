@@ -1,2 +1,2 @@
 # Laboratorio 14 del curso de Xamarin.Forms
-Alumno: Timoteo Torres, John Fabian
+<strong>Alumno: </strong> Timoteo Torres, John Fabian
